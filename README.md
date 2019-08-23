@@ -25,8 +25,11 @@ Capella admin panellerin için geliştirilmiş, gönderilen formların name'leri
 </form>
 ```
 > ÖNEMLİ  : Buton ismi btn-sub olmak zorundadır.
+
 > ÖNEMLİ  : Tablo hidden türünden ismi table olarak ve tablo adı value'sinde belirtilmelidr
+
 > ÖNEMLİ  : Yüklenecek dosyanın name'i file_include.php dosyasında belirtilen(yada sizin yeni yazacağınız isim) başta olmak üzere (default s1) s1-column_adi olmalıdır
+
 > ÖNEMLİ : Tüm form elemanları (text/select/password vb.) belirtilen tablodaki column isimleriyle aynı olmalıdır ve formda tablo columnlerinde bulunmayan eleman olmamalıdır!
 
 file_include.php dosyasında yeni bir dosya tanımlama;
